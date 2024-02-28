@@ -16,17 +16,18 @@
 
 
 # Natural language processing of multi-hospital electronic health records for public health surveillance of suicidality
+Link to the article:
+https://www.nature.com/articles/s44184-023-00046-7
+
 
 ## Study
 
 This repositoy contains the computer code that has been executed to generate the results of the article:
 ```
-@unpublished{suicideattempt,
-author = {Romain Bey and Ariel Cohen and Vincent Trebossen and Basile Dura and Pierre-Alexis Geoffroy and Charline Jean and Benjamin Landman and Thomas Petit-Jean and Gilles Chatellier and Kankoe Sallah and Xavier Tannier and Aurélie Bourmaud and Richard Delorme},
-title = {Natural language processing of multi-hospital electronic health records for public health surveillance of suicidality},
-note = {Manuscript submitted for publication},
-year = {2022}
-}
+Bey, Romain, Ariel Cohen, Vincent Trebossen, Basile Dura, Pierre-Alexis Geoffroy, Charline Jean, Benjamin Landman, et al.
+« Natural language processing of multi-hospital electronic health records for public health surveillance of suicidality ».
+npj Mental Health Research 3, nᵒ 1 (14 février 2024): 6.
+https://doi.org/10.1038/s44184-023-00046-7.
 ```
 The code has been executed on the database of the <a href="https://eds.aphp.fr/" target="_blank">Greater Paris University Hospitals</a>
 
@@ -37,7 +38,7 @@ This repository is not maintained. It contains computer code that is specific to
 
 
 ## Version 1.0.0
-- Code of article after review.
+- Code of puublished article.
 
 ## Setup
 
